@@ -1,4 +1,4 @@
-# Hash_Map
+# Hash Map
 Two hash map implementations that use different methods for collision resolution
 
 - [OSU CS261 A6 - U22.pdf](https://github.com/MHValdez/Hash_Map/blob/main/OSU%20CS261%20A6%20-%20U22.pdf) provides design specifications
